@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/monsoon.dir/src/cmd/monsoon.cpp.o CMakeFiles/monsoon.dir/src/main.cpp.o -o ../bin/monsoon   -L/home/yyk/IM/Monsoon/lib  -Wl,-rpath,/home/yyk/IM/Monsoon/lib /usr/local/lib/libftxui-dom.a /usr/local/lib/libftxui-component.a /usr/local/lib/libftxui-dom.a /usr/local/lib/libftxui-screen.a -lpthread 
